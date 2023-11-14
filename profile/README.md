@@ -2,13 +2,12 @@
 
 ## 💻 프로젝트 소개
 
-2023 ABB 해커톤 - AI, 빅데이터(메이커톤) 트랙: **우수상**
-
-프로젝트: **대구 관광 활성화를 위한 관광 인증 사진 판별 AI 앱**
+- 2023 ABB 해커톤 - AI, 빅데이터(메이커톤) 트랙
+- 팀 [부산이간다]: **우수상**
+- 프로젝트: **대구 관광 활성화를 위한 관광 인증 사진 판별 AI 앱**
+- 해커톤 후기 포스팅: <https://insengnewbie.tistory.com/484>
 
 ![우수상](./public/Daelog-image.jpg)
-
-해커톤 후기 포스팅: <https://insengnewbie.tistory.com/484>
 
 ## :calendar: 개발 기간
 
